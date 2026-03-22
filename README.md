@@ -1,6 +1,5 @@
 
-````markdown
-## Bike Demand Prediction / 自行车需求预测
+# 共享单车需求预测 / Bike Demand Prediction
 
 This project predicts daily bike rental demand using Python and machine learning.  
 本项目使用 Python 和机器学习预测每日自行车租赁需求。  
